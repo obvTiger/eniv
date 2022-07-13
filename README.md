@@ -14,3 +14,6 @@ Nginx
 PHP8.1 
 BASH 
 FFMPEG
+
+Jakerton if you see this pls message me on discord for moderation access on the Website
+obvTigerシ#5119
