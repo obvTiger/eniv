@@ -1,6 +1,6 @@
 # eniv
 Webserver for 1 second memes https://eniv.obvtiger.ch
-!!!currently not working on mobile!!!
+!!!currently not working as expected on mobile!!!
 https://eniv.obvtiger.ch
 
 Status:
