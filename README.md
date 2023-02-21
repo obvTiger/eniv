@@ -1,5 +1,5 @@
 # eniv
-Webserver for 1 second memes https://eniv.app
+Website for 1 second memes https://eniv.app
 
 https://eniv.app
 
