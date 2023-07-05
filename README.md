@@ -2,6 +2,7 @@
 Website for 1 second memes https://eniv.app
 
 https://eniv.app
+https://preview.eniv.app
 
 Status:
 online and working
